@@ -27,33 +27,33 @@ R
 
 
 <h1> Pruebas para conocer si las varianzas poblacionales son iguales </h1>
-<h4> 1.1 Prueba de varianzas poblacionales --> $\sigma^2$ (una población) </h4>
+<h4> 1.1 Prueba de varianzas poblacionales --> (una población) </h4>
 
 1. [Prueba para $\sigma$.](./scripts_R/33_prueba_hipotesis_varianzas_una_poblacion.ipynb)
 
 
-<h4> 1.2 Prueba de varianzas poblacionales --> $\sigma^2_1$   $\sigma^2_2$ (dos poblaciones) </h4>
+<h4> 1.2 Prueba de varianzas poblacionales -->(dos poblaciones) </h4>
 
 1. [Prueba para $\sigma^2_1 = \sigma^2_2$.](./scripts_R/44_prueba_hipotesis_varianza_dos_poblaciones.ipynb)
 
 
 
 <h1> Una población </h1>
-<h4> 2.1 Prueba para media --> $\mu$  </h4>
+<h4> 2.1 Prueba para media   </h4>
 
-1. [Caso 1: Prueba **z** para $\mu$ de una población distribuida normal con $\sigma$ conocida.](./scripts_R/1_prueba_hipotesis_media.ipynb)
-1. [Caso 2: Prueba **z** para $\mu$ muestras grandes.](./scripts_R/2_prueba_hipotesis_media_aproximada.ipynb)
-1. [Caso 3: Prueba **t** para $\mu$ de una población con distribución normal.](./scripts_R/3_prueba_hipotesis_media_muestra_pequena.ipynb)
+1. [Caso 1: Prueba **z** para la media de una población distribuida normal con varianza conocida.](./scripts_R/1_prueba_hipotesis_media.ipynb)
+1. [Caso 2: Prueba **z** para la media con muestras grandes.](./scripts_R/2_prueba_hipotesis_media_aproximada.ipynb)
+1. [Caso 3: Prueba **t** para la media de una población con distribución normal.](./scripts_R/3_prueba_hipotesis_media_muestra_pequena.ipynb)
 
 
 
 <h1> Dos poblaciones (independientes) </h1>
-<h4> 2.2 Prueba para medias --->  $\mu_1$, $\mu_2$ </h4>
+<h4> 2.2 Prueba para medias  </h4>
 
-4. [Prueba **z** para $\mu_1$ y $\mu_2$ poblaciones Normales con $\sigma^2_1$y $\sigma^2_2$ conocidas.](./scripts_R/4_prueba_hipotesis_medias_pob_normal_var_conocida.ipynb)
-5. [Prueba **z** para $\mu_1$ y $\mu_2$ muestras grandes.](./scripts_R/5_prueba_hipotesis_medias_muestra_grande.ipynb)
-6. [Prueba **t** para $\mu_1$ y $\mu_2$ poblaciones Normales](./scripts_R/6_prueba_hipotesis_medias_pob_normal.ipynb)
-7. [Prueba **t** para $\mu_1$ y $\mu_2$ poblaciones Normales  y $\sigma^2_1=\sigma^2_2$](./scripts_R/7_prueba_hipotesis_medias_var_igual.ipynb)
+4. [Prueba **z** para dos medias poblaciones Normales con varianzas conocidas.](./scripts_R/4_prueba_hipotesis_medias_pob_normal_var_conocida.ipynb)
+5. [Prueba **z** para dos medias muestras grandes.](./scripts_R/5_prueba_hipotesis_medias_muestra_grande.ipynb)
+6. [Prueba **t** para dos muestras poblaciones Normales](./scripts_R/6_prueba_hipotesis_medias_pob_normal.ipynb)
+7. [Prueba **t** para dos muestras poblaciones Normales  y varianzas iguales$](./scripts_R/7_prueba_hipotesis_medias_var_igual.ipynb)
 
 
 <h2>Referencias</h2>
