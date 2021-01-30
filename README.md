@@ -29,12 +29,12 @@ R
 <h1> Pruebas para conocer si las varianzas poblacionales son iguales </h1>
 <h4> 1.1 Prueba de varianzas poblacionales --> (una población) </h4>
 
-1. [Prueba para $\sigma$.](./scripts_R/33_prueba_hipotesis_varianzas_una_poblacion.ipynb)
+1. [Prueba para una varianza.](./scripts_R/33_prueba_hipotesis_varianzas_una_poblacion.ipynb)
 
 
 <h4> 1.2 Prueba de varianzas poblacionales -->(dos poblaciones) </h4>
 
-1. [Prueba para $\sigma^2_1 = \sigma^2_2$.](./scripts_R/44_prueba_hipotesis_varianza_dos_poblaciones.ipynb)
+1. [Prueba para igualdad de varianzas.](./scripts_R/44_prueba_hipotesis_varianza_dos_poblaciones.ipynb)
 
 
 
