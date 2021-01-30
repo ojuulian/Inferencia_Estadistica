@@ -19,12 +19,12 @@ R
 <h1 align='center'> Contenido</h1>
 
 
----
+
 <h3> Distribuciones muestrales </h3>
 
 0. [Distribuciones muestrales](./scripts_R/0_distribuciones_muestrales.ipynb)
 
----
+
 
 <h1> Pruebas para conocer si las varianzas poblacionales son iguales </h1>
 <h4> 1.1 Prueba de varianzas poblacionales --> $\sigma^2$ (una población) </h4>
@@ -36,7 +36,7 @@ R
 
 1. [Prueba para $\sigma^2_1 = \sigma^2_2$.](./scripts_R/44_prueba_hipotesis_varianza_dos_poblaciones.ipynb)
 
----
+
 
 <h1> Una población </h1>
 <h4> 2.1 Prueba para media --> $\mu$  </h4>
